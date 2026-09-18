@@ -13,7 +13,9 @@ We focus on practical, career-oriented learning in **Artificial Intelligence, Te
 ### 🤖 AI & Technology
 - Artificial Intelligence
 - Prompt Engineering
+- Generative & Agentic AI
 - Machine Learning
+- Ai Automation
 - Data Science
 - Web Development
 - App Development
@@ -33,6 +35,7 @@ We focus on practical, career-oriented learning in **Artificial Intelligence, Te
 - Job Readiness
 - Resume Development
 - Interview Preparation
+- Placement Assistant 
 - Communication Skills
 - Spoken English
 - Personality Development
@@ -46,6 +49,7 @@ Our Career Hub connects **skills, learning and career opportunities** through:
 - Candidate Profiles
 - Resume Support
 - Interview Preparation
+- Placement Assistant 
 - Career Guidance
 - Industry-Oriented Skill Development
 
@@ -66,7 +70,8 @@ Adityapur, Jamshedpur, Jharkhand, India
 
 ### 🌐 Website
 
-https://aiskillxacademy.in/
+OUR Official Website- https://aiskillxacademy.in/
+OUR Job Opportunity Page- https://aiskillxacademy.in/get-job-now/ 
 
 ### 📞 Contact
 
